@@ -1,6 +1,6 @@
-# fake-news-detection
+# Fake News Detection
 Building a model using Machine Learning and NLP techniques to detect whether an article is fake or real.
-Add ipython and jupyter notebook to view/ run the code.
+Add ipython and jupyter notebook to view and run the code.
 
 # Datasets Used:
 1. https://www.kaggle.com/mrisdal/fake-news
