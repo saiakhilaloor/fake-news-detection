@@ -13,5 +13,5 @@ Intsall ipython and jupyter notebook to view and run the code.
 # Contact Details:
 1. iit2015131@iiita.ac.in
 2. iit2015138@iiita.ac.in
-3. iit2015145@iiita.ac.in
+3. iit2015147@iiita.ac.in
 
